@@ -1,7 +1,8 @@
 ! Title: 🌐 MyBlock
-! Version: 1.0
+! Version: 27July2025v1
 ! Expires: 12 hours
 ! Description: Não gosta de anúncios chatos? Eu também não
+! Original homepage: https://newreverse.site
 
 ||ads.spotify.com^
 ||ads.spotify.com^$important
