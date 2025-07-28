@@ -1,3 +1,8 @@
+! Title: 🌐 MyBlock
+! Version: 1.0
+! Expires: 12 hours
+! Description: Não gosta de anúncios chatos? Eu também não
+
 ||ads.spotify.com^
 ||ads.spotify.com^$important
 ||adstudio.spotify.com^
