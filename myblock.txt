@@ -1,1 +1,7 @@
-
+||ads.spotify.com^
+||ads.spotify.com^$important
+||adstudio.spotify.com^
+||ads.youtube.com^
+www.youtube.com###toast
+||pornhub.com/*/ads_batch
+||pornhub.com/embed/$3p,frame,redirect=click2load.html
