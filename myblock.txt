@@ -61,5 +61,3 @@ books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
 grs.hicloud.com
-/pagead.js$domain=d3ward.github.io
-/widget/ads.
