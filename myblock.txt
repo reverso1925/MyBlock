@@ -81,3 +81,6 @@ top.gg##main.w-full.flex.flex-col > .css-1h2g9d9
 ||tracking.intl.miui.com
 ||tracking.india.miui.com
 ||securemetrics.apple.com
+##.flex-col.flex.w-full > .w-full.gap-2.p-2.self-center.\!border-ui\/10.\!border.rounded-sm.justify-center.items-center.flex-col.flex
+##div#ad-container.w-full.gap-2.p-2.self-center.\!border-ui\/10.\!border.rounded-sm.justify-center.items-center.flex-col.flex:nth-of-type(1)
+##div#ad-container.w-full.gap-2.p-2.self-center.\!border-ui\/10.\!border.rounded-sm.justify-center.items-center.flex-col.flex:nth-of-type(2)
