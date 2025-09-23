@@ -86,3 +86,5 @@ top.gg##main.w-full.flex.flex-col > .css-1h2g9d9
 ##div#ad-container.w-full.gap-2.p-2.self-center.\!border-ui\/10.\!border.rounded-sm.justify-center.items-center.flex-col.flex:nth-of-type(2)
 ##.order-md-6.order-3.col-12 > .mb-3.mt-2
 pt.namemc.com##.row.gx-2.align-items-center > div.col-12:nth-of-type(8) > .mb-3
+pt.namemc.com###nn_player1
+pt.namemc.com##.col-12.p-1.order-3.order-md-6 > .mb-3
