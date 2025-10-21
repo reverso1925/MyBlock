@@ -88,3 +88,256 @@ top.gg##main.w-full.flex.flex-col > .css-1h2g9d9
 pt.namemc.com##.row.gx-2.align-items-center > div.col-12:nth-of-type(8) > .mb-3
 pt.namemc.com###nn_player1
 pt.namemc.com##.col-12.p-1.order-3.order-md-6 > .mb-3
+! ================================================================
+! 🔰 BASE — Ads e Analytics globais
+! ================================================================
+||ads.*^
+||adserver.*^
+||adservice.*^
+||adnxs.com^
+||googlesyndication.com^
+||googletagservices.com^
+||doubleclick.net^
+||partner.googleadservices.com^
+||pagead2.googlesyndication.com^
+||securepubads.g.doubleclick.net^
+||pubads.g.doubleclick.net^
+||google-analytics.com^
+||ssl.google-analytics.com^
+||marketingplatform.google.com^
+||tagmanager.google.com^
+||googletagmanager.com^
+||beacon.krxd.net^
+||quantserve.com^
+||scorecardresearch.com^
+||moatads.com^
+||zedo.com^
+||adroll.com^
+||exponential.com^
+||yandex.ru/metrika^
+||statcounter.com^
+||chartbeat.com^
+
+! ================================================================
+! 🧠 AI & Machine Learning Telemetry
+! ================================================================
+||chat.openai.com/backend-analytics^
+||api.openai.com/usage^
+||platform.openai.com/telemetry^
+||anthropic.com/track^
+||claude.ai/usage-logs^
+||bard.google.com/logs^
+||gemini.google.com/metrics^
+||perplexity.ai/tracking^
+||perplexity.ai/api/collect^
+||huggingface.co/telemetry^
+||replicate.com/track^
+||stability.ai/metrics^
+||midjourney.com/logs^
+||copilot.microsoft.com/api/metrics^
+||bing.com/api/telemetry^
+||notion.so/metrics^
+||figma.com/telemetry^
+||discord.com/api/metrics^
+||cdn.discordapp.com/analytics^
+||status.discord.com/api/track^
+||huggingface.co/api/analytics^
+||api.gemini.google.com/logs^
+
+! ================================================================
+! ☁️ Infraestrutura / CDN / Cloud Tracking
+! ================================================================
+||cdn.optimizely.com^
+||cdn.segment.com^
+||cdn.mouseflow.com^
+||static.cloudflareinsights.com^
+||insights.cloudflare.com^
+||fastly-insights.com^
+||akstat.io^
+||akamaized.net^$third-party
+||akamaihd.net^$third-party
+||datadoghq.com^
+||newrelic.com^
+||bugsnag.com^
+||rollbar.com^
+||logrocket.com^
+||telemetry.api.microsoft.com^
+||vortex.data.microsoft.com^
+||telemetry.mozilla.org^
+||clients2.google.com/service/update2^
+||crashlytics.com^
+||firebaseinstallations.googleapis.com^
+
+! ================================================================
+! 🛒 E-commerce Tracking
+! ================================================================
+||stripe.com/v1/track^
+||paypalobjects.com/track^
+||paypal.com/webapps/analytics^
+||shopify.com/collect^
+||shopifycdn.com/track^
+||woocommerce.com/track^
+||magento.com/tracking^
+||bigcommerce.com/analytics^
+||cdn.shopify.com/s/javascripts/trackers.js^
+||cdn.woocommerce.com/tracker^
+
+! ================================================================
+! 🎮 Game Launchers e Plataformas
+! ================================================================
+||epicgames.com/tracking^
+||epicgames.dev/telemetry^
+||unrealengine.com/metrics^
+||riotgames.com/telemetry^
+||valorant.com/metrics^
+||steamcommunity.com/tracking^
+||steampowered.com/track^
+||store.steampowered.com/ads^
+||battle.net/api/track^
+||ubisoft.com/telemetry^
+||unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||auction.unityads.unity3d.com^
+||analytics.unity3d.com^
+||cdn1.unity3d.com/ads^
+
+! ================================================================
+! 🧱 Anti-Adblock & Cookie/GDPR Blockers
+! ================================================================
+||consent.cookiebot.com^
+||cdn.cookielaw.org^
+||fundingchoicesmessages.google.com^
+||cmp.osano.com^
+||cdn.onesignal.com^
+||onesignal.com^
+||quantcast.mgr.consensu.org^
+##.cookie-banner
+##.cookie-consent
+##.gdpr-consent
+##.consent-popup
+##.modal-ad
+##.subscribe-popup
+##.newsletter-modal
+##.popup-overlay
+##.sponsor
+##.sponsored
+##.ad-placeholder
+##.ytp-ad-overlay-slot
+
+! ================================================================
+! 🎥 Plataformas de Vídeo e Música
+! ================================================================
+||youtube.com/api/stats/ads^
+||youtube.com/get_midroll_info^
+||youtube.com/ptracking^
+||youtube.com/pagead^
+||youtube.com/youtubei/v1/log_event^
+||spclient.wg.spotify.com/ad-logic^
+||audio2.spotify.com^
+||spotify.com/ads^
+||netflix.com/api/track^
+||netflix.com/api/ads^
+||ads.twitch.tv^
+||client-event-reporter.twitch.tv^
+||stats.twitch.tv^
+youtube.com###player-ads
+youtube.com##.ytp-ad-skip-button
+youtube.com##.ytp-ad-player-overlay
+youtube.com##.video-ads
+twitch.tv##.video-player__ad-overlay
+twitch.tv##.ad-banner
+spotify.com##.ads-leaderboard
+spotify.com##.billboard-ad
+
+! ================================================================
+! 🧬 Fingerprinting e Coleta de Impressão Digital
+! ================================================================
+||browser-update.org/track^
+||clientmetrics.*^
+||fingerprintjs.com^
+||client.h-captcha.com^$third-party
+||turnstile.cloudflare.com^
+||arkoselabs.com^
+||captcha-delivery.com^
+||metrics.api.webglstats.com^
+||fonts.gstatic.com/metrics^
+||webglstats.com^
+||fontmetrics.io^
+||pixels.ai^
+||heatmap.it^
+||smartlook.com^
+||inspectlet.com^
+||fullstory.com^
+||hotjar.io^
+||mouseflow.com^
+
+! ================================================================
+! 💬 Redes sociais e Ads em feeds
+! ================================================================
+facebook.com##[aria-label="Patrocinado"]
+facebook.com##[role="feed"] > div:has(span:has-text("Patrocinado"))
+instagram.com##.x1qjc9v5:has(a[href*="ads"])
+twitter.com##.promoted-tweet
+twitter.com##article[data-testid="placementTracking"]
+reddit.com##.promoted
+reddit.com##.promotedlink
+tiktok.com##.tiktok-ads
+tiktok.com##.banner-ad
+linkedin.com##.ad-banner
+pinterest.com##.ads-wrapper
+youtube.com##.ytd-display-ad-renderer
+
+! ================================================================
+! 🔍 Buscadores / Lojas
+! ================================================================
+google.com###taw
+google.com##.ads-ad
+google.com##.commercial-unit-desktop-rhs
+bing.com##.b_ad
+bing.com##.sb_ad
+duckduckgo.com##.results--ads
+amazon.com##.s-sponsored-label-text
+amazon.com##.s-card-container:has(span:has-text(Sponsored))
+mercadolivre.com.br##.andes-card:has(.ui-ad-card)
+aliexpress.com##.banner--ad
+
+! ================================================================
+! ⚙️ Scripts e Beacons genéricos
+! ================================================================
+||track.js^
+||tracker.js^
+||clicktracker.js^
+||collect.js^
+||events.js^
+||log.js^
+||pixel.js^
+||stat.js^
+||monetization.js^
+||adtrack.js^
+||metrics.js^
+||beacon.js^
+||telemetry.js^
+||data-collector.js^
+||api/eventlog^
+||logevent.php^
+||collectevent^
+||trackevent^
+||stat-collect^
+
+! ================================================================
+! 🧹 VISUAL — Ocultação geral de ads e banners
+! ================================================================
+##.ad
+##.ads
+##.advert
+##.advertisement
+##.sponsored
+##.sponsor
+##.ad-container
+##.promo
+##.banner
+##.commercial
+##.video-ads
+##.sidebar-ads
+##.footer-ads
+##.inline-ads
